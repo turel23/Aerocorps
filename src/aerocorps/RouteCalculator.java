@@ -1,3 +1,5 @@
+package aerocorps;
+
 public class RouteCalculator {
     private static final double EARTH_RADIUS_NM = 3440.065; // Earth's radius in nautical miles
 

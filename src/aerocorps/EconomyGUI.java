@@ -1,3 +1,5 @@
+package aerocorps;
+
 import java.util.Scanner;
 
 public class EconomyGUI {//not ready to be released yet

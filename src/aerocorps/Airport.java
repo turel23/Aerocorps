@@ -1,3 +1,5 @@
+package aerocorps;
+
 import java.io.Serializable;
 
 public class Airport implements Serializable{

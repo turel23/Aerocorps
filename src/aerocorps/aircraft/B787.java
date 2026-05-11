@@ -1,3 +1,7 @@
+package aerocorps.aircraft;
+
+import aerocorps.Aircraft;
+
 public class B787 extends Aircraft{
     private final double price =239.3; //million
     private final int burn= 2900; //gallon per hour

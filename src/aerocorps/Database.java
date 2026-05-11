@@ -1,4 +1,10 @@
+package aerocorps;
+
 //kinda finished
+import aerocorps.aircraft.A320;
+import aerocorps.aircraft.B737;
+import aerocorps.aircraft.B777;
+import aerocorps.aircraft.B787;
 import java.io.*;
 import java.time.LocalDateTime;
 import java.util.ArrayList;

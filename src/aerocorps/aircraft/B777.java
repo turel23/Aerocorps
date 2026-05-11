@@ -1,3 +1,7 @@
+package aerocorps.aircraft;
+
+import aerocorps.Aircraft;
+
 public final class B777 extends Aircraft{
     private final double price =352.16; //million
     private final int burn= 2500; //gallon per hour

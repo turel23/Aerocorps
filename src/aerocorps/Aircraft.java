@@ -1,3 +1,5 @@
+package aerocorps;
+
 import java.io.Serializable;
 import java.util.ArrayList;
 
@@ -102,6 +104,6 @@ public abstract class Aircraft implements Serializable{
         return count;
     }
 
-    abstract boolean ifPlane(String n);
+    public abstract boolean ifPlane(String n);
     public abstract Aircraft clone();
 }

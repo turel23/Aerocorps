@@ -1,3 +1,5 @@
+package aerocorps;
+
 public class NOTAMS {
     public static boolean messages=false;
     public static void NOTAMSmenu(){

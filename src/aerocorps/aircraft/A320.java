@@ -1,3 +1,7 @@
+package aerocorps.aircraft;
+
+import aerocorps.Aircraft;
+
 public final class A320 extends Aircraft{
     private final double price =101; //million
     private final int burn= 900; //gallon per hour
